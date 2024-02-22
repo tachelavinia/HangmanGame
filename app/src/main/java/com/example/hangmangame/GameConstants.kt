@@ -5,5 +5,6 @@ object GameConstants {
         "Switzerland",
         "Romania",
         "France",
+        "Italy"
     )
 }
