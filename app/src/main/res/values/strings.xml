@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HangmanGame</string>
+    <string name="game_title">Hangman</string>
+    <string name="play_button_text">Play</string>
+    <string name="game_lost_text_overlay">You Lost!</string>
+    <string name="game_won_text_overlay">You Won!</string>
+    <string name="start_new_game">Start new game</string>
+</resources>
